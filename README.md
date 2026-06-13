@@ -44,6 +44,172 @@ Our goal is simple:
 
 ---
 
+# How To Use ReliefHub
+
+## Step 1: Open the Platform
+
+When the platform opens, users can select their preferred language and access one of the following:
+
+* Help & Emergency Portal
+* Coordination Center
+* Live Demo (Simulation Mode)
+
+---
+
+## Step 2: Help & Emergency Portal
+
+For citizens and affected individuals.
+
+Users can:
+
+### Option A
+
+Use Current GPS Location
+
+### Option B
+
+Enter Location Manually
+
+Required details:
+
+* State
+* District
+* Village
+* Landmark
+* Pincode
+
+After submission, ReliefHub analyzes the situation using available disaster and location data.
+
+---
+
+## Step 3: Real-World Validation
+
+ReliefHub separates real incidents from demonstration scenarios.
+
+### Real Dashboard
+
+The Live Dashboard is connected only to real-world information.
+
+It monitors:
+
+* Real emergency reports
+* Real disaster indicators
+* Real weather conditions
+* Real aid coordination activity
+
+If no disaster is occurring, the dashboard will remain stable and show normal monitoring information.
+
+The dashboard does not generate artificial disaster data.
+
+---
+
+## Step 4: Weather Radar
+
+The Radar Portal follows the same principle.
+
+It displays:
+
+* Real weather conditions
+* Rainfall activity
+* Storm information
+* Flood risk indicators
+
+If there is no severe weather activity, the radar will reflect normal conditions.
+
+---
+
+## Step 5: Simulation Environment
+
+For demonstrations, testing, and hackathon judging.
+
+Access:
+
+VIEW LIVE DEMO
+
+or
+
+/testing
+
+Simulation Mode contains preconfigured disaster scenarios such as:
+
+* Floods
+* Cyclones
+* Heavy Rain Events
+* Emergency Villages
+
+This allows judges and testers to experience the complete ReliefHub workflow without requiring an actual disaster.
+
+Simulation data never affects the real dashboard.
+
+---
+
+## Step 6: Priority Engine
+
+Every incident is analyzed using:
+
+* Geographic Analysis
+* Volunteer Reports
+* NGO Reports
+* Crowd Verification
+* Disaster Severity
+* Previous Aid History
+
+The system then classifies locations as:
+
+🔴 Critical
+
+🟠 Moderate
+
+🟢 Covered
+
+This helps ensure aid is allocated efficiently.
+
+---
+
+## Step 7: NGO Assignment & Route Guidance
+
+Once an emergency is identified:
+
+1. NGOs can be assigned.
+2. Resources can be allocated.
+3. Routes can be generated.
+4. Responders can navigate to affected locations.
+5. Aid delivery can be tracked.
+
+This creates a complete disaster-response workflow.
+
+---
+
+## Important Note
+
+ReliefHub intentionally separates:
+
+### Real World Mode
+
+Used for monitoring actual disasters and real-world conditions.
+
+### Simulation Mode
+
+Used for demonstrations, testing, training, and hackathon evaluation.
+
+This ensures that demo scenarios never interfere with real operational data.
+
+---
+
+## Recommended Judge Flow
+
+1. Open ReliefHub
+2. Explore the Homepage
+3. Open the Help Portal
+4. Visit the Weather Radar
+5. Open the Live Dashboard
+6. Click "View Live Demo"
+7. Explore the Simulation Environment
+8. Observe Priority Engine, NGO Assignment, and Route Guidance workflow
+
+This demonstrates the complete capabilities of the platform.
+
+
 # Key Features
 
 ## 🌍 Multi-Language Accessibility
